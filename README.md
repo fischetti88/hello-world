@@ -1,2 +1,1 @@
-# hello-world
-This is a demo-repository
+Carpe diem, choose life.
